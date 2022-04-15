@@ -55,8 +55,7 @@ With an inline SQL query.
 
 # Example Output
 
-<code>
-Getting query by SQL from myquery.sql file...  
+<code>Getting query by SQL from myquery.sql file...  
 The query was found by SQL in the ACCOUNT_USAGE schema.  
 The query ID is 01a3a078-0501-5c84-004e-a283000ab22e.  
 
