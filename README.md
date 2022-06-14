@@ -35,9 +35,11 @@ You must specify the SQL query through one of the following options:
 
 To compile into a CLI executable:
 
-**<code>pip install pyinstaller</code>**  
-**<code>pyinstaller --onefile query-profiler.py</code>**  
-**<code>dist/query-profiler [options]</code>**  
+```
+> pip install pyinstaller
+> pyinstaller --onefile query-profiler.py
+> dist/query-profiler [options]
+```
 
 # Example Usage
 
